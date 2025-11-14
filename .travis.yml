@@ -40,3 +40,4 @@ deploy:
       tags: true
       condition: "$TRAVIS_RUST_VERSION = stable"
     script: ./.travis-deploy
+
