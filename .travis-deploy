@@ -13,3 +13,4 @@ else
     echo "Git tag '${TRAVIS_TAG}' does not match cargo version '${PKGID##*#}'" 1>&2
     exit 1
 fi
+
