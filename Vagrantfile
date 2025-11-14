@@ -8,3 +8,4 @@ Vagrant.configure("2") do |config|
       mv /tmp/disk.img /vagrant/
 EOS
 end
+
