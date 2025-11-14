@@ -8,6 +8,7 @@
 //!
 //! # Examples
 //!
+
 //! Default options:
 //!
 //! ```rust
