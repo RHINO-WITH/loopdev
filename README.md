@@ -6,7 +6,8 @@
 
 Setup and control loop devices.
 
-Provides rust interface with similar functionality to the Linux utility `losetup`.
+Provides rust interface with
+ similar functionality to the Linux utility `losetup`.
 
 ## [Documentation](https://docs.rs/loopdev)
 
@@ -52,4 +53,5 @@ minutes.
 
 [vagrant]: https://www.vagrantup.com/docs/installation/
 [virtualbox]: https://www.virtualbox.org/
+
 
