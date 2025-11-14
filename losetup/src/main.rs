@@ -10,6 +10,7 @@ fn find() -> io::Result<()> {
     println!(
         "{}",
         LoopControl::open()?.next_free()?.path().unwrap().display()
+
     );
     Ok(())
 }
