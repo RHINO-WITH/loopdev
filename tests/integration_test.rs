@@ -232,3 +232,4 @@ fn add_a_loop_device() {
     assert!(lc.add(device_count as u32).is_err()); // EEXIST
     assert!(lc.add(device_count as u32 + 1).is_ok())
 }
+
